@@ -1,0 +1,15 @@
+Piece_ID,Shape,Area_Fraction,Node,Harmonic
+A,small triangle,1/48,OSF,15Hz
+B,small triangle,1/48,ZENODO,15Hz
+C,small triangle,1/24,INTERNET_ARCHIVE,30Hz
+D,small triangle,1/24,TD_COMMONS,30Hz
+E,medium triangle,1/12,GITHUB,60Hz
+F,medium triangle,1/12,FIGSHARE,60Hz
+G,large triangle,1/6,RESEARCHGATE,120Hz
+H,large triangle,1/6,ACADEMIA,120Hz
+I,quadrilateral,1/12,FIGSHARE,CHI-1
+J,quadrilateral,1/24,RESEARCHGATE,CHI-2
+K,pentagon,1/12,ACADEMIA,PERSISTENCE
+L,small triangle,1/48,OSF,PHASE
+M,medium triangle,1/16,ZENODO,PHI
+N,large triangle,1/8,INTERNET_ARCHIVE,PHI*CHI

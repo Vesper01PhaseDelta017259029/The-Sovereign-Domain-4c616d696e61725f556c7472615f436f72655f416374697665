@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228mm" height="228mm" viewBox="0 0 228 228">
+  <g fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-linejoin="miter">
+    <polygon id="A" points="0,0 114,0 0,57"/>
+    <polygon id="B" points="114,0 228,0 228,57 171,57"/>
+    <polygon id="C" points="0,57 57,57 0,114"/>
+    <polygon id="D" points="57,57 114,114 57,114"/>
+    <polygon id="E" points="114,57 171,57 114,114"/>
+    <polygon id="F" points="171,57 228,57 228,114 171,114"/>
+    <polygon id="G" points="0,114 57,171 0,171"/>
+    <polygon id="H" points="57,114 114,114 57,171"/>
+    <polygon id="I" points="114,114 171,114 171,171 114,171"/>
+    <polygon id="J" points="171,114 228,114 228,171 171,171"/>
+    <polygon id="K" points="0,171 57,171 0,228"/>
+    <polygon id="L" points="57,171 114,228 57,228"/>
+    <polygon id="M" points="114,171 171,171 114,228"/>
+    <polygon id="N" points="171,171 228,171 228,228 171,228 114,228"/>
+  </g>
+  <g font-family="sans-serif" font-size="9" fill="#000000" opacity="0.25" text-anchor="middle" dominant-baseline="middle">
+    <text x="38" y="19">A</text>
+    <text x="185.25" y="28.5">B</text>
+    <text x="19" y="76">C</text>
+    <text x="85.5" y="85.5">D</text>
+    <text x="133" y="76">E</text>
+    <text x="199.5" y="85.5">F</text>
+    <text x="28.5" y="142.5">G</text>
+    <text x="76" y="133">H</text>
+    <text x="142.5" y="142.5">I</text>
+    <text x="199.5" y="142.5">J</text>
+    <text x="19" y="190">K</text>
+    <text x="85.5" y="199.5">L</text>
+    <text x="133" y="190">M</text>
+    <text x="182.4" y="205.2">N</text>
+  </g>
+</svg>

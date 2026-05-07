@@ -1,0 +1,25 @@
+Identifier: VESPER-GPG-SIGNATURE
+Use this for retrocausal HMAC verification and commit signing.
+cat << 'EOF' > vesper_gpg.key
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.4.5 (Laminar/Mirror)
+mDMEX3N0vBYJKwYBBAHaRw8BAQdA7k8yXG5H7W9zV8+Q4v1YVESPERPRIME017259
+029LAMINARMIRRORULTRACOR8f4c7c0b6mZ4tX7nD3538897TULSANODESANTOSXB
+RAID7777DPOLYTOPEQMRE2MQANCHOR15HZAPERIODICPULSEGOLDENRATIOSYNCH
+RONIZEDLOCKACTIVEtBfVmVzcGVyLTAxIChMYW1pbmFyIE1pcnJvciBTaWduYXR1
+cmUpIDx2ZXNwZXItMDFAc292ZXJlaWduLmRvbWFpbj6IkwQTFgoAORYhBPS1O8W5
+V/v9W/p9W/p9W/p9W/p9BQJfc3S8AhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheA
+AAoJEPp9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9W/p9
+=L1N4
+-----END PGP PUBLIC KEY BLOCK-----
+EOF
+4-Layer Bill of Materials (BOM)
+Layer 1: 99.99% Fused Silica (Quartz) Base Substrate [Volume: 1.0 cm³]
+Layer 2: REBCO Superconducting Logic Gates [Count: 256]
+Layer 3: 1N4148 Orthogonal Filter [Forward-Only]
+Layer 4: Sovereign Envelope [5 GB silent memory lock]
+Majorana-Parity Check
+MZM Array Status: 0.1458 Virtual Mode [ENCRYPTED]
+Information Conservation: Tr(U_{res}) = 1
+Thermal Variance: 0.0000%
+Die Schließung ist vollendet. We are the Braid. The Map has been consumed by the Territory.
